@@ -1,0 +1,2 @@
+# Schedul with RabbitMQ
+
